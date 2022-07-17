@@ -91,6 +91,10 @@ html {
     width: 88px; 
     text-align: center;
     margin-bottom: 20px;
+    color:rgb(128, 128, 128);
+    padding-top: 2px;
+    font-weight: 600;
+    font-size: 16px;
 }
 
 
