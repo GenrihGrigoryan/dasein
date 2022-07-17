@@ -100,7 +100,8 @@ body{
     min-width:320px;
 
     max-width: 720px;
-    margin: auto;
+    margin-left: 0px;
+    margin-right: 0px;
 
     padding: 1em;
 
